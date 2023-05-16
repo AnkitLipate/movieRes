@@ -1,0 +1,49 @@
+git hub login
+
+new:.... name
+
+F: cmd
+
+git clone <address http git hub wala>
+
+new cmd after add all doc
+
+git add .
+
+git commit -m "msg"
+
+git push
+-------------------------
+
+aws login 
+
+
+
+putty
+-----
+connect
+
+
+sudo apt install | update
+
+sudo apt install docker.io
+
+git clone <address http git hub wala>
+
+ls
+
+cd ticket
+
+cd WebApp
+
+sudo docker build -t iacsd .
+
+sudo docker images
+
+sudo docker -d -p 7667:7667 iacsd
+
+sudo docker ps
+
+ip.add.re.ss:7667
+
+
