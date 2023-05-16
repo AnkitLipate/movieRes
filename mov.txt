@@ -1,0 +1,57 @@
+FUNCTIONAL REQUIREMENT:
+In software and system engineering, a functional requirement defines a function of a system or its components, where a function is described as a specification of behavior between outputs and inputs.
+
+FOR EXAMPLE:
+
+Send an email when a new customer signs up or create a new account.
+
+ 
+
+ONLINE MOVIE TICKET BOOKING SYSTEM:
+If a customer wants to book the ticket, then he/she must be registered, an unregistered user cannot book the ticket. Registration is the first step of booking the tickets for any one.
+
+There are many factor’s or functional requirement for buying or selling the movie tickets some of them are given below;
+
+Registration
+Login
+Search movie
+Seat viewing
+Payment
+Logout
+Generate ticket
+Add movie
+Now we can over-view and describe all these functional requirements in detail.
+
+Registration:
+If the customer wants to see the movie, then he must be registered. Unregistered customers cannot go for movies.
+
+Login:
+Customers can log in to the system by entering a valid user id and password .
+
+Changes to cart:
+After login user can change or cancel the booking.
+
+Payment:
+For customer, there are many types of billing will be prepaid as a debit or credit. Without payment any customer cannot go for movie.
+
+Logout:
+After registration and payment user will be logged out.
+
+
+Technical issues:
+System work on client-server Architecture. It will require an internet server.
+
+Interface requirements:
+Various interfaces for the product could be …..
+
+Login page
+Registration page
+There should be new, cancel, and search options are available
+Customer information, movies list, ticket price, seat booking information.
+Purpose:
+
+The purpose for looking comprehensive solution to manage to online movie ticket booking.
+
+Oline movie statistics
+Online movie booking
+Oline movie review
